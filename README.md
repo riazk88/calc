@@ -1,6 +1,8 @@
 ![Screenshot](calc1.png)
 ![Screenshot](calc2.png)
 ![Screenshot](calc3.png)
+
+Created with the help of Tyler Potts (https://tylerpotts.co.uk) and his tutorial on YouTube
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
